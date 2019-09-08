@@ -1,11 +1,11 @@
 {
-  "name": "airplayer",
+  "name": "@webtorrent/airplayer",
   "version": "2.0.0",
   "description": "Query your local network for Apple TV's and have them play videos",
   "main": "index.js",
   "bin": "bin.js",
   "dependencies": {
-    "airplay-protocol": "github:webtorrent/airplay-protocol",
+    "@webtorrent/airplay-protocol": "^2.0.2",
     "appendable-cli-menu": "^2.0.0",
     "bonjour": "^3.3.1",
     "internal-ip": "^1.2.0",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/watson/airplayer.git"
+    "url": "git+https://github.com/webtorrent/airplayer.git"
   },
   "keywords": [
     "airplay",
@@ -42,11 +42,7 @@
   "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/watson/airplayer/issues"
+    "url": "https://github.com/webtorrent/airplayer/issues"
   },
-  "homepage": "https://github.com/watson/airplayer#readme",
-  "coordinates": [
-    52.5307717,
-    13.3839318
-  ]
+  "homepage": "https://github.com/webtorrent/airplayer#readme"
 }
