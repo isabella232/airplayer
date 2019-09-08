@@ -5,7 +5,7 @@
   "main": "index.js",
   "bin": "bin.js",
   "dependencies": {
-    "airplay-protocol": "^2.0.2",
+    "airplay-protocol": "github:webtorrent/airplay-protocol",
     "appendable-cli-menu": "^2.0.0",
     "bonjour": "^3.3.1",
     "internal-ip": "^1.2.0",
