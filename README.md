@@ -1,5 +1,7 @@
 # airplayer
 
+Interim release of [airplayer](https://github.com/watson/airplayer) addressing security vulnerabilities.
+
 Query your local network for Apple TV's or other AirPlay video
 compatible devices and have them play videos.
 
